@@ -11201,3 +11201,9 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+.logos {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 30px;
+}
