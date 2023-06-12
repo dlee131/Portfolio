@@ -11112,7 +11112,7 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  /* padding-top: 10rem; */
   background: linear-gradient(to bottom, #000 40%, rgba(255, 255, 255, 1) 30%);
 }
 .about-section p {
@@ -11220,4 +11220,9 @@ body {
   --bs-text-opacity: 1;
   /* color: rgba(255, 255, 255, 0.5) !important; */
   font-size: 50px;
+}
+
+.prof-pic {
+  height: 200px;
+  width: 200px;
 }
